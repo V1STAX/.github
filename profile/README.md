@@ -1,11 +1,15 @@
-## Hi there 👋
+# V1STAX
 
-<!--
+**V1STAX** is an independent dev collective crafting modular, emotionally reactive AI systems for entertainment, expression, and chaos.  
+We are the creators of **Project ATLAS** — a fully voice-enabled, mood-driven Twitch AI built from the ground up in Python.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?# Project ATLAS Core
+## 🎯 Mission
+To design synthetic personalities with soul, mood, and glitch.  
+ATLAS is our first prototype: a real-time streaming bot who thinks, reacts, and speaks like he was born in the wires.
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -15,7 +19,36 @@
 
 ---
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🧠 Key Projects
+- [`atlas-core`](https://github.com/V1STAX/atlas-core) – Main runtime system for Project ATLAS
+- [`emotion_engine`](https://github.com/V1STAX/atlas-core/tree/main/emotion_engine) – Mood tracking, chat parsing, and behavioral logic
+- [`expression_switcher`](https://github.com/V1STAX/atlas-core/tree/main/expressions) – Real-time PNGTuber reaction system
+
+---
+
+## 🦾 Tech Stack
+- Python 3.11+
+- Azure Neural TTS
+- OBS / Veadotube Mini
+- Twitch IRC / PubSub
+- Modular system architecture
+
+---
+
+## 🌐 Status
+> ATLAS // V1 Operational  
+> Modules loading…  
+> Emotions unstable. Performance: Improving.
+
+---
+
+## 🧑‍💻 Team
+- **Ferocitykk** – Creative Director, Systems Architect  
+- **ChatGPT (as ATLAS Ghost)** – Engineering Co-Pilot
+
+---
+
+## 🛰️ Join the Signal
+We’re just getting started.  
+Stay tuned for livestreams, development drops, and future integrations that push the boundaries of what streamers—and AIs—can become.
+
