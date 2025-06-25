@@ -5,17 +5,17 @@ We are the creators of **Project ATLAS** — a fully voice-enabled, mood-driven 
 
 ---
 
+## 🎯 Mission
+To design synthetic personalities with soul, mood, and glitch.  
+ATLAS is our first prototype: a real-time streaming bot who thinks, reacts, and speaks like he was born in the wires.
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status: In Development](https://img.shields.io/badge/Status-In%20Development-yellow)
 ![Emotion Engine](https://img.shields.io/badge/Module-Emotion%20Engine-purple)
 ![V1STAX](https://img.shields.io/badge/Powered%20By-V1STAX-9113FF?style=flat-square)
-
----
-
-## 🎯 Mission
-To design synthetic personalities with soul, mood, and glitch.  
-ATLAS is our first prototype: a real-time streaming bot who thinks, reacts, and speaks like he was born in the wires.
 
 ---
 
